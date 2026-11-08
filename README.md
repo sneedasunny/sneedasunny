@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Sneeda Sunny 👋
 
-<!--
-**sneedasunny/sneedasunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year B.Tech Computer Science and Engineering student.
 
-Here are some ideas to get you started:
+💻 Interested in Software Engineering and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- Currently strengthening my programming and problem-solving skills.
+- Interested in developing software applications and exploring new technologies.
+- Enjoy working on academic and practical projects.
+
+Technical Skills
+
+- Languages: Python, Java, C, C++, SQL
+- Database: SQLite, MySQL
+- Concepts: Object-Oriented Programming, DBMS
+- Tools:  GitHub, Figma
+
+Projects
+
+- MediCheck: Medicine Identification and Analysis Application using Machine Learning.
+- Personal Finance Tracker: Java Swing desktop application with SQLite.
+- Virtual Cache Memory Simulator: Simulation of cache memory operations.
+- Smart Bag: RFID-based smart system using a microcontroller.
+
+Connect With Me
+
+- "LinkedIn" (https://www.linkedin.com/in/sneeda-sunny)
